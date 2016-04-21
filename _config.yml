@@ -1,7 +1,7 @@
 name: LADY KIWI
 favicon: null
-layout_spectrum: 0.6690130783244967
-typography_spectrum: 0.4349406457040459
+layout_spectrum: 1
+typography_spectrum: 0.54752
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.0895794341340661
+    - '#ffffff'
+    - '#b8d4ae'
+    - '#73ab62'
+    - '#00100d'
+    - '#2a4124'
+  brandStrength: 0.5
   lightness: 0.05039323284290731
-  saturation: 0.45756935328245163
+  saturation: 0.875
   rhythmicContrast: 0.9163537812419236
 purpose: []
