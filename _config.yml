@@ -1,5 +1,7 @@
-favicon: null
-name: LADY KIWI
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -20,7 +22,7 @@ purpose: []
 color:
   saturation: 1
   brandStrength: 1
-  lightness: 0
+  lightness: 0.3851064
   brandColors:
     - '#ffffff'
     - '#b8d4ae'
@@ -29,12 +31,10 @@ color:
     - '#2a4124'
   rhythmicContrast: 0
 typography_spectrum: 0.4042553
-layout_spectrum: 1
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 cta:
   bucket: null
   version: null
   domain: null
+layout_spectrum: 1
+favicon: null
+name: LADY KIWI
