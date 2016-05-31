@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-31T10:56:35.379Z'
-dateModified: '2016-05-31T10:29:34.235Z'
-title: 'VIDEO: INSPIRATION '
+datePublished: '2016-05-31T11:00:05.503Z'
+dateModified: '2016-05-31T11:00:03.821Z'
+title: 'VIDEO: INSPIRATION'
 author: []
+sourcePath: _posts/2016-05-31-lady-kiwi-inspiration.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-31-lady-kiwi-inspiration.md
 url: lady-kiwi-inspiration/index.html
 _type: Article
 
