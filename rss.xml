@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[LADY KIWI]]></title>
         <description><![CDATA[LADY KIWI]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lady-kiwi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 31 May 2016 10:12:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 31 May 2016 10:23:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lady-kiwi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[LADY KIWI: INSPIRATION]]></title>
+            <description><![CDATA[<h1>LADY KIWI: INSPIRATION</h1>]]></description>
+            <link>https://thegrid.ai/lady-kiwi/lady-kiwi-inspiration/index.html</link>
+            <guid isPermaLink="false">1d7e1cc1-02fb-4372-9b75-7cfe57f0182c</guid>
+            <pubDate>Tue, 31 May 2016 10:23:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[PILLS & POTIONS EP]]></title>
             <description><![CDATA[<article><h1>PILLS & POTIONS EP</h1><p>Coming July 2016.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c75e6e0-3e4d-4fc3-93d5-f57595e2a30c.jpg"></article>]]></description>
-            <link>undefinedpills-and-potions-ep/index.html</link>
+            <link>https://thegrid.ai/lady-kiwi/pills-and-potions-ep/index.html</link>
             <guid isPermaLink="false">84285bf7-ad80-4945-9c23-231843c2e5a9</guid>
             <pubDate>Tue, 31 May 2016 10:11:14 GMT</pubDate>
         </item>
