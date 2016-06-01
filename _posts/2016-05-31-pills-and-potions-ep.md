@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Coming July 2016.
-datePublished: '2016-05-31T10:11:14.783Z'
-dateModified: '2016-05-31T10:11:14.224Z'
+datePublished: '2016-06-01T04:01:53.729Z'
+dateModified: '2016-06-01T04:01:53.365Z'
 title: 'PILLS & POTIONS EP'
 author: []
+sourcePath: _posts/2016-05-31-pills-and-potions-ep.md
 authors: []
 publisher: null
-starred: false
-sourcePath: _posts/2016-05-31-pills-and-potions-ep.md
+starred: true
 url: pills-and-potions-ep/index.html
 _type: Article
 
