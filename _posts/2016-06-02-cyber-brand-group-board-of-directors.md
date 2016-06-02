@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: Founder and Chief Executive Officer
-datePublished: '2016-06-02T04:27:58.711Z'
-dateModified: '2016-06-02T04:27:54.019Z'
+datePublished: '2016-06-02T04:37:58.551Z'
+dateModified: '2016-06-02T04:37:36.608Z'
 title: CYBER BRAND GROUP BOARD OF DIRECTORS
 author: []
 sourcePath: _posts/2016-06-02-cyber-brand-group-board-of-directors.md
@@ -14,7 +14,7 @@ authors: []
 publisher: null
 starred: false
 url: cyber-brand-group-board-of-directors/index.html
-_type: Article
+_type: WebPage
 
 ---
 # CYBER BRAND GROUP BOARD OF DIRECTORS
