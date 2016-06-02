@@ -1,17 +1,17 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: "Lady Kiwi's Empire: Dedicated to Quality, Change, and Contribution"
-datePublished: '2016-05-31T10:55:42.391Z'
-dateModified: '2016-05-31T10:27:21.418Z'
+datePublished: '2016-06-02T04:38:30.122Z'
+dateModified: '2016-06-02T04:38:18.992Z'
 title: KIWI ENTERPRISES
 author: []
+sourcePath: _posts/2016-05-31-kiwi-enterprises.md
 authors: []
 publisher: null
-sourcePath: _posts/2016-05-31-kiwi-enterprises.md
 starred: false
 url: kiwi-enterprises/index.html
 _type: Article
