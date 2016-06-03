@@ -1,15 +1,7 @@
-layout_spectrum: 0.24752
-favicon: null
 name: LADY KIWI
-purpose: []
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.24752
+typography_spectrum: 0.4042553
 collections:
   - index:
       paginate: true
@@ -23,18 +15,26 @@ collections:
       path: /rss.xml
       number: 10
 cta:
-  version: null
-  bucket: null
   domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.3125
-  lightness: 0.7893617
-  saturation: 0.3125
-  rhythmicContrast: 0.75
   brandColors:
     - '#f7f4ed'
     - '#e28f63'
     - '#c9784d'
     - '#e7c095'
     - '#a85935'
-typography_spectrum: 0.4042553
+  brandStrength: 0.3125
+  lightness: 0.7893617
+  saturation: 0.3125
+  rhythmicContrast: 0.75
+purpose: []
