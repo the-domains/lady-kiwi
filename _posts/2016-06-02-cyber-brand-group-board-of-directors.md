@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Founder and Chief Executive Officer
-datePublished: '2016-06-04T14:35:22.240Z'
-dateModified: '2016-06-04T14:34:32.594Z'
+datePublished: '2016-06-04T14:36:09.234Z'
+dateModified: '2016-06-04T14:35:51.731Z'
 title: 'CYBER BRAND GROUP '
 author: []
 sourcePath: _posts/2016-06-02-cyber-brand-group-board-of-directors.md
@@ -25,3 +25,4 @@ _type: WebPage
 ![Vice President of Administration](https://the-grid-user-content.s3-us-west-2.amazonaws.com/34488e06-f07f-4fa4-9a56-ec7486b3b02b.jpg)
 ![Sergeant-At-Arms](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f9ad22d-09bd-4c55-a93a-34880b8f0b60.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c7d65d7-1b54-4159-a461-d94dfb02b6c4.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cba33805-5e1f-438e-a5fc-8908bf9a7a52.jpg)
