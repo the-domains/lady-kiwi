@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Lady Kiwi''s Network: Dedicated to Quality, Change, and Contribution'
-datePublished: '2016-06-06T19:33:32.722Z'
-dateModified: '2016-06-06T19:33:31.900Z'
+datePublished: '2016-06-06T19:35:17.133Z'
+dateModified: '2016-06-06T19:35:02.858Z'
 title: KIWI ENTERPRISES
 author: []
 sourcePath: _posts/2016-05-31-kiwi-enterprises.md
