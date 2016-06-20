@@ -4,7 +4,7 @@
         <description><![CDATA[LADY KIWI]]></description>
         <link>https://thegrid.ai/ladykiwi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 20 Jun 2016 09:38:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2016 09:38:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ladykiwi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[CLICK HERE FOR ROSES EP]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/ladykiwi/roses-ep/index.html</link>
             <guid isPermaLink="false">b9f5f443-130c-4809-9d2a-658aa3d78eb8</guid>
             <pubDate>Mon, 20 Jun 2016 09:38:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PILLS EP]]></title>
+            <description><![CDATA[<article><h1>PILLS EP</h1><p>Coming July 2016.</p></article>]]></description>
+            <link>https://thegrid.ai/ladykiwi/pills-and-potions-ep/index.html</link>
+            <guid isPermaLink="false">84285bf7-ad80-4945-9c23-231843c2e5a9</guid>
+            <pubDate>Mon, 20 Jun 2016 09:38:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[RESUME]]></title>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/ladykiwi/join-lady-kiwi-as-she-talks-beyonce-recording-techniques-t/index.html</link>
             <guid isPermaLink="false">1d7e1cc1-02fb-4372-9b75-7cfe57f0182c</guid>
             <pubDate>Thu, 02 Jun 2016 21:02:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PILLS & POTIONS EP]]></title>
-            <description><![CDATA[<article><h1>PILLS & POTIONS EP</h1><p>Coming July 2016.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c75e6e0-3e4d-4fc3-93d5-f57595e2a30c.jpg"></article>]]></description>
-            <link>https://thegrid.ai/ladykiwi/pills-and-potions-ep/index.html</link>
-            <guid isPermaLink="false">84285bf7-ad80-4945-9c23-231843c2e5a9</guid>
-            <pubDate>Thu, 02 Jun 2016 04:51:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
