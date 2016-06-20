@@ -4,7 +4,7 @@
         <description><![CDATA[LADY KIWI]]></description>
         <link>https://thegrid.ai/ladykiwi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 20 Jun 2016 09:40:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2016 10:05:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ladykiwi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[CLICK HERE FOR ROSES EP]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/ladykiwi/roses-ep/index.html</link>
             <guid isPermaLink="false">b9f5f443-130c-4809-9d2a-658aa3d78eb8</guid>
             <pubDate>Mon, 20 Jun 2016 09:38:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[RESUME]]></title>
+            <description><![CDATA[<article><h1>RESUME</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b5bd5b018e9607cd3c93f5a3a057b2b6/croprotate.jpg?cropheight=1056&cropwidth=815&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F00ad97b4-18ad-459c-86fe-7b1e7f0db5d9.jpg&x=0&y=0"></article>]]></description>
+            <link>https://thegrid.ai/ladykiwi/resume/index.html</link>
+            <guid isPermaLink="false">0d6fa382-bb55-4f5e-9525-e949e05b36d1</guid>
+            <pubDate>Mon, 20 Jun 2016 10:04:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Join Lady Kiwi as she talks about Beyonce, Recording Techniques, Time Management, and much more.]]></title>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/ladykiwi/pills-and-potions-ep/index.html</link>
             <guid isPermaLink="false">84285bf7-ad80-4945-9c23-231843c2e5a9</guid>
             <pubDate>Mon, 20 Jun 2016 09:38:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[RESUME]]></title>
-            <description><![CDATA[<article><h1>RESUME</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b5bd5b018e9607cd3c93f5a3a057b2b6/croprotate.jpg?cropheight=1056&cropwidth=815&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F00ad97b4-18ad-459c-86fe-7b1e7f0db5d9.jpg&x=0&y=0"></article>]]></description>
-            <link>https://thegrid.ai/ladykiwi/resume/index.html</link>
-            <guid isPermaLink="false">0d6fa382-bb55-4f5e-9525-e949e05b36d1</guid>
-            <pubDate>Mon, 20 Jun 2016 09:26:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
