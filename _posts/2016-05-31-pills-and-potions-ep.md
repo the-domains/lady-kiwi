@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Coming July 2016.
-datePublished: '2016-06-02T04:51:24.649Z'
-dateModified: '2016-06-02T04:51:21.185Z'
-title: 'PILLS & POTIONS EP'
+datePublished: '2016-06-20T09:38:40.803Z'
+dateModified: '2016-06-20T09:30:42.091Z'
+title: PILLS EP
 author: []
 sourcePath: _posts/2016-05-31-pills-and-potions-ep.md
 authors: []
@@ -17,7 +17,7 @@ url: pills-and-potions-ep/index.html
 _type: Article
 
 ---
-# PILLS & POTIONS EP
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c75e6e0-3e4d-4fc3-93d5-f57595e2a30c.jpg)
+# PILLS EP
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a5fd243-3d74-4bf7-9e22-7be17d7c06d6.png)
 
 Coming July 2016\.
