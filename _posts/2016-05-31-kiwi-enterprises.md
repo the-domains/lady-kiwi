@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Lady Kiwi''s Network: Dedicated to Quality, Change, and Contribution'
-datePublished: '2016-06-19T21:33:17.815Z'
-dateModified: '2016-06-19T21:33:15.564Z'
+datePublished: '2016-06-20T09:31:55.345Z'
+dateModified: '2016-06-20T09:31:46.093Z'
 title: KIWI ENTERPRISES
 author: []
 sourcePath: _posts/2016-05-31-kiwi-enterprises.md
@@ -22,7 +22,7 @@ _type: WebPage
 Lady Kiwi's Network: Dedicated to Quality, Change, and Contribution
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b53e63ec-01ab-4203-8d32-aa69cc5013ef.png)
 
-## 
+## VISTIT THE KIWI ENTERPRISES HOMEPAGE 
 
 ## CURRENT ENTITIES:
 
