@@ -1,30 +1,20 @@
-typography_spectrum: 0.40185
-color:
-  brandColors:
-    - '#ffffff'
-    - '#ff2d40'
-    - '#413630'
-    - '#d3d1a1'
-    - '#996f68'
-  brandStrength: 0.1875
-  lightness: 0.7893617
-  saturation: 0.3125
-  rhythmicContrast: 0.75
+title: Lady Kiwi
+cta:
+  version: null
+  bucket: null
+  domain: null
+layout_spectrum: 0.7297872
+favicon: null
+name: LADY KIWI
+purpose: []
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.516
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-name: LADY KIWI
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: null
 collections:
   - index:
       paginate: true
@@ -37,5 +27,15 @@ collections:
       format: rss
       path: /rss.xml
       number: 10
-title: Lady Kiwi
-purpose: []
+color:
+  brandStrength: 0.1875
+  saturation: 0.3125
+  brandColors:
+    - '#ffffff'
+    - '#ff2d40'
+    - '#413630'
+    - '#d3d1a1'
+    - '#996f68'
+  lightness: 0.7893617
+  rhythmicContrast: 0.75
+typography_spectrum: 0.40185
