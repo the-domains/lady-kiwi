@@ -1,16 +1,16 @@
 title: Lady Kiwi
 cta:
-  domain: null
-  version: null
   bucket: null
-layout_spectrum: 0.3
+  version: null
+  domain: null
+layout_spectrum: 0
 favicon: null
 name: LADY KIWI
 purpose: []
 analytics:
-  facebook: null
-  google: null
   twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
